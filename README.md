@@ -50,7 +50,9 @@ FM = "FM" & IF(MONTH(Main[Date]) >= 4,
 - Price bucket segmentation highlights consumer affordability trends
 
 
+6. Case Study: Zomato Restaurant Analysis Dashboard (Power BI)
 
+https://1drv.ms/w/c/ae9840f81109f6e6/EYe2Mn1-pB5IivuZ7U6xq3sBzWWjXznP8lmSnehyysxlnw?e=YuKsqF
 
 🙋‍♀️ ABOUT ME
 
